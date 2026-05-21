@@ -5,5 +5,7 @@ public class Main1 {
         System.out.println("Здравствуйте ребята");
 
         System.out.println("Java!");
+
+        System.out.println("Ну что ж такое");
     }
 }
